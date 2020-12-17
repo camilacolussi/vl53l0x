@@ -1,4 +1,7 @@
 //VL53L0x Multi sensor 
+//Camila Colussi 2020
+//Arduino Uno + 4 VL53L0x sensors
+//Use SerialMonitor to see the measurements
 
 // reference: https://arduinoproyek.wordpress.com/2019/03/27/vl53l0x-multi-sensor/
 
